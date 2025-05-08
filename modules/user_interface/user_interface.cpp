@@ -47,7 +47,6 @@ void userInterfaceUpdate()
     userInterfaceDisplayUpdate();
 }
 
-
 //=====[Implementations of private functions]==================================
 
 
